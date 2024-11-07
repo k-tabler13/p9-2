@@ -24,7 +24,7 @@ int main() {
         cin >> array[i];
     }
 
-    // Check if the array is sorted in increasing order
+    // Check if the array is sorted in increasing order.
     if (isSortedIncreasing(array, SIZE)) {
         cout << "The array is sorted in increasing order.\n";
     }
